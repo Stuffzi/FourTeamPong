@@ -1,0 +1,7 @@
+﻿  Level1TitleScreen.cpp
+  level0.cpp
+C:\Users\micha\source\repos\Four team pong\Four team pong\level0.cpp(27,66): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\micha\source\repos\Four team pong\Four team pong\level0.cpp(27,49): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  main.cpp
+  Generating Code...
+  Four team pong.vcxproj -> C:\Users\micha\source\repos\Four team pong\x64\Debug\Four team pong.exe
